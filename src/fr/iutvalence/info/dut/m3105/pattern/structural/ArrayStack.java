@@ -3,7 +3,7 @@ package fr.iutvalence.info.dut.m3105.pattern.structural;
 public class ArrayStack<T> implements Stack<String> {
 
 	@Override
-	public void push(String e) {
+	public void push(String elementToAddOnTheTopOfTheStack) {
 		// TODO Auto-generated method stub
 		
 	}
